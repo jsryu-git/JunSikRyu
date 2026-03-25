@@ -13,13 +13,13 @@ Currently a Game Publisher working at Com2uS USA Inc. [![Com2uS](https://img.shi
 Soon to be a Data Scientist with M.S. in Applied Data Science at University of San Diego.\
 My work focuses on predictive modeling, machine learning, and cloud based analytics, with an emphasis on turning messy data into clear and actionable insights.
 
-I am also deeply passionate about gaming, especially titles such as League of Legends and GTA. In addition, I am a dedicated baseball fan, which naturally connects with my professional experience working on MLB licensed titles. This passion connects strongly to my work in game publishing, where player behavior, engagement, and data driven decision making are critical. [![Steam](https://img.shields.io/badge/Steam-Profile-black?logo=steam)](https://steamcommunity.com/id/imssss/)
+I am also deeply passionate about gaming, especially titles such as League of Legends and GTA. In addition, I am a dedicated baseball fan, which naturally connects with my professional experience working on MLB licensed titles. This passion connects strongly to my work in game publishing, where player behavior, engagement, and data driven decision making are critical.
 
 
 📍 Los Angeles, California, USA\
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jun-r-601a17202/)\
 📧 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ims921021@gmail.com)
-
+🏆 [![Steam](https://img.shields.io/badge/Steam-Profile-black?logo=steam)](https://steamcommunity.com/id/imssss/)
 
 ---
 
@@ -84,8 +84,6 @@ I am also deeply passionate about gaming, especially titles such as League of Le
 
 ### 📦 E-Commerce Data Pipeline for Order and Delivery Insights
 
-[🔗 View Project](https://github.com/nikitarogers333/ads507-team4-project)
-
 - Designed and implemented a data pipeline for order and delivery analytics
 - Processed and analyzed e-commerce data to generate actionable insights
 - Utilized cloud-based workflows and data engineering techniques
@@ -103,10 +101,8 @@ I am also deeply passionate about gaming, especially titles such as League of Le
 
 ## 📈 GitHub Stats
 
-```md
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jsryu-git&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsryu-git&layout=compact)
-```
+![JunSik Ryu github stats](https://github-readme-stats.vercel.app/api?username=jsryu-git&show_icons=true&theme=default)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsryu-git&layout=compact&theme=default)](https://github.com/jsryu-git)
 
 ---
 
